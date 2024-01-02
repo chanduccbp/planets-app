@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.p-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'roboto';
+}
+
+.p-pic {
+  width: 60%;
+}
+
+.p-head {
+  color: #f8fafc;
+}
+
+.p-para {
+  color: #f1f5f9;
+}

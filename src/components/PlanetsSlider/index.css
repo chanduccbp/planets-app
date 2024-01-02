@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.slider-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  min-height: 100vh;
+  padding: 40px;
+}
+
+.head {
+  color: #05acff;
+  font-family: 'roboto';
+  text-align: center;
+}
